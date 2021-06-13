@@ -13,25 +13,33 @@
 
 ## Experience
 
-<a href='https://improving.com/'>
-    <img style="border-radius:50%" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/improving.png?raw=true' />
-    Improving
-</a> from May 2021 to current
+<p>
+    <a href='https://improving.com/'>
+        <img height="30" style="border-radius:50%" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/improving.png?raw=true' />
+        Improving
+    </a> from May 2021 to current
+</p>
 
-<a href='https://www.etsy.com/'>
-    <img style="border-radius:50%" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/etsy.png?raw=true' />
-    Etsy
-</a> from Jan 2021 to May 2021
+<p>
+    <a href='https://www.etsy.com/'>
+        <img height="30" style="border-radius:50%" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/etsy.png?raw=true' />
+        Etsy
+    </a> from Jan 2021 to May 2021
+</p>
 
-<a href='https://www.wizeline.com/'>
-    <img style="border-radius:50%" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/wizeline.png?raw=true' />
-    Wizeline
-</a> from Dec 2020 to May 2021
+<p>
+    <a href='https://www.wizeline.com/'>
+        <img height="30" style="border-radius:50%" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/wizeline.png?raw=true' />
+        Wizeline
+    </a> from Dec 2020 to May 2021
+</p>
 
-<a href='https://benchmarkdigital.com/'>
-    <img style="border-radius:50%" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/benchmarkesggensuite.png?raw=true' />
-    Benchmark ESG | Gensuite
-</a> from Apr 2018 to Dec 2020
+<p>
+    <a href='https://benchmarkdigital.com/'>
+        <img height="30" style="border-radius:50%" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/benchmarkesggensuite.png?raw=true' />
+        Benchmark ESG | Gensuite
+    </a> from Apr 2018 to Dec 2020
+</p>
 
 ## Certifications
 
