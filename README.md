@@ -1,10 +1,10 @@
-# [![braulio de la torre header](https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/main/src/Resume-background.png)](https://github.com/MrDafunk)
+# [![braulio de la torre header](https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/Resume-background.png)](https://github.com/MrDafunk)
 <p align='center'>
     <h3>Braulio De la Torre | Mr DaFunk</h3>
-    <a href="https://www.linkedin.com/in/braulio-renato-de-la-torre-%C3%A1vila-ab735355/"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/main/src/linkedin.png"></a>&nbsp;&nbsp;
-    <a href="https://github.com/MrDafunk"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/main/src/github.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://gitlab.com/Braulio"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/main/src/gitlab.svg?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://app.codesignal.com/profile/mrdafunk"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/main/src/codesignal.jpeg?raw=true"></a>
+    <a href="https://www.linkedin.com/in/braulio-renato-de-la-torre-%C3%A1vila-ab735355/"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/linkedin.png"></a>&nbsp;&nbsp;
+    <a href="https://github.com/MrDafunk"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/github.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://gitlab.com/Braulio"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/gitlab.svg?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://app.codesignal.com/profile/mrdafunk"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/codesignal.jpeg?raw=true"></a>
 </p>
 
 <p>
@@ -14,22 +14,22 @@
 ## Experience
 
 <a href='https://improving.com/'>
-    <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1256139099813171200/BVCrHTv8_normal.jpg?raw=true' />
+    <img style="border-radius:50%" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/improving.png?raw=true' />
     Improving
 </a> from May 2021 to current
 
 <a href='https://www.etsy.com/'>
-    <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1256139099813171200/BVCrHTv8_normal.jpg?raw=true' />
+    <img style="border-radius:50%" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/etsy.png?raw=true' />
     Etsy
 </a> from Jan 2021 to May 2021
 
 <a href='https://www.wizeline.com/'>
-    <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1256139099813171200/BVCrHTv8_normal.jpg?raw=true' />
+    <img style="border-radius:50%" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/wizeline.png?raw=true' />
     Wizeline
 </a> from Dec 2020 to May 2021
 
 <a href='https://benchmarkdigital.com/'>
-    <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1256139099813171200/BVCrHTv8_normal.jpg?raw=true' />
+    <img style="border-radius:50%" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/benchmarkesggensuite.png?raw=true' />
     Benchmark ESG | Gensuite
 </a> from Apr 2018 to Dec 2020
 
