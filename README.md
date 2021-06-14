@@ -16,13 +16,13 @@
 
 ## Experience
 
-- <a href='https://improving.com/'><img width="50" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/improving.png?raw=true' /> Improving</a> as <b>Senior Software Specialist</b> from May 2021 to current
+- <a href='https://improving.com/'><img width="50" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/improving.png?raw=true' /> Improving</a> as <b>Senior Software Specialist</b> <i>from May 2021 to current</i>
 
-- <a href='https://www.etsy.com/'><img width="50" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/etsy.png?raw=true' /> Etsy</a> as <b>Software Engineer</b> from Jan 2021 to May 2021
+- <a href='https://www.etsy.com/'><img width="50" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/etsy.png?raw=true' /> Etsy</a> as <b>Software Engineer</b> <i>from Jan 2021 to May 2021</i>
 
-- <a href='https://www.wizeline.com/'><img width="50" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/wizeline.png?raw=true' /> Wizeline</a> as <b>Software Engineer</b> from Dec 2020 to May 2021
+- <a href='https://www.wizeline.com/'><img width="50" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/wizeline.png?raw=true' /> Wizeline</a> as <b>Software Engineer</b> <i>from Dec 2020 to May 2021</i>
 
-- <a href='https://benchmarkdigital.com/'><img width="50" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/benchmarkesggensuite.png?raw=true' /> Benchmark ESG | Gensuite</a> as <b>Lead Product Developer</b> from Apr 2018 to Dec 2020
+- <a href='https://benchmarkdigital.com/'><img width="50" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/benchmarkesggensuite.png?raw=true' /> Benchmark ESG | Gensuite</a> as <b>Lead Product Developer</b> <i>from Apr 2018 to Dec 2020</i>
 
 <br>
 
