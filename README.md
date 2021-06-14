@@ -1,5 +1,5 @@
 # [![braulio de la torre header](https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/Resume-background.png)](https://github.com/MrDafunk)
-<h align="center">Braulio De la Torre</h>
+<h2 align="center">Braulio De la Torre</h2>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/braulio-renato-de-la-torre-%C3%A1vila-ab735355/"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/linkedin.png"></a>&nbsp;&nbsp;
@@ -8,12 +8,13 @@
     <a href="https://app.codesignal.com/profile/mrdafunk"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/codesignal.jpeg?raw=true"></a>
 </p>
 
+## Introduction
+
 <p>
     Senior Full stack developer with almost 6 years of experience in software development, building scalable architectures in different languages and technologies such as Javascript / Typescript with React, Angular, Vue and NodeJS, also PHP and Coldfusion from scratch and based on legacy code. I like to build Rest API systems with / without frameworks as well as sustainable frontend frameworks. Good performance, best practices and secure system applications are my greatest strengths.
 </p>
 
 ## Experience
-
 
 - <a href='https://improving.com/'><img width="50" align="left" src='https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/improving.png?raw=true' /> Improving</a> as <b>Senior Software Specialist</b> from May 2021 to current
 
@@ -29,8 +30,7 @@
 
 - Wizeline | React Bootcamp Q1 2021
 
-### Native Language
-<br> Spanish
+## Languages
 
-### Other languages
-<br> English | Japanese (Certificated)
+- Native Spanish
+- English | Japanese (Certificated)
