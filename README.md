@@ -2,7 +2,7 @@
 <h3 align="center">Braulio De la Torre</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/braulio-renato-de-la-torre-%C3%A1vila-ab735355/"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/linkedin.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/braulio-delatorre/"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/linkedin.png"></a>&nbsp;&nbsp;
     <a href="https://github.com/MrDafunk"><img height="30" style="border-radius:50%" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/github.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://gitlab.com/Braulio"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/gitlab.svg?raw=true"></a>&nbsp;&nbsp;
     <a href="https://app.codesignal.com/profile/mrdafunk"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/codesignal.jpeg?raw=true"></a>
