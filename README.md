@@ -1,5 +1,3 @@
-# [![braulio de la torre header](https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/Resume-background.png)](https://github.com/MrDafunk)
-
 # Braulio De la Torre
 
 <code><a href="https://www.linkedin.com/in/braulio-delatorre/"><img height="30" src="https://raw.githubusercontent.com/MrDaFunk/MrDaFunk/master/src/linkedin.png"></a></code>
